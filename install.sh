@@ -3,7 +3,7 @@
 echo "cp NeoVim config"
 
 gem install rcodetools # osyo-manga/vim-monster
-cp -r Git/my_neovim/.config/ ~/
+cp -r ./.config/ ~/
 
 echo "Install NewVim"
 
