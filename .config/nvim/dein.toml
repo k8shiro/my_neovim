@@ -1,2 +1,5 @@
 [[plugins]]
 repo = 'osyo-manga/vim-monster'
+
+[[plugins]]
+repo = 'stephpy/vim-yaml'
